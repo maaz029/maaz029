@@ -1,0 +1,5 @@
+- 👋 Hi, I’m maaz ahmed
+- 👀 I’m interested in learning coding therefore, i will work hard to achieve my goals.
+- 🌱 I’m currently learning data structures and Linux 
+- 💞️ I’m looking to collaborate on projects management.
+- 📫 you can reach me by mailing me on maazktk029@gmail.com
